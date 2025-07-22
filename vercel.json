@@ -5,11 +5,5 @@
     "api/summarize.ts": {
       "runtime": "nodejs18.x"
     }
-  },
-  "rewrites": [
-    {
-      "source": "/api/(.*)",
-      "destination": "/api"
-    }
-  ]
+  }
 } 
